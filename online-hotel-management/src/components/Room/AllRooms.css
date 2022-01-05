@@ -1,0 +1,23 @@
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    background-color: beige;
+    width: 100%;
+  }
+  
+  table td, table th {
+    border: 1px solid rgb(255, 0, 128);
+    padding: 8px;
+  }
+  table td{
+      text-align: center;
+  }
+  
+  table tr:hover {background-color: #ddd;}
+  
+  table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    color: black;
+  }
